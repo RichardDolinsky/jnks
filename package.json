@@ -1,0 +1,14 @@
+{
+  "name": "example-cypress",
+  "version": "1.0.0",
+  "description": "jnks",
+  "main": "index.js",
+  "scripts": {
+    "test": "none comman"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.4"
+  }
+}
