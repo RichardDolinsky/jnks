@@ -4,11 +4,13 @@
   "description": "jnks",
   "main": "index.js",
   "scripts": {
-    "test": "none comman"
+    "test": "none comman",
+    "cy:run" : "cypress run --spec cypress/integration/one-tests/example.js"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "cypress": "^9.5.4"
+
   }
 }
