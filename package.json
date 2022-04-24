@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "none comman",
-    "cy:run" : "cypress run --spec cypress/integration/one-tests/example.js"
+    "cy:run" : "cypress run --record --key cypress-example-kitchensink-record-key --spec cypress/integration/one-tests/example.js"
   },
   "author": "",
   "license": "ISC",
